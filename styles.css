@@ -1,0 +1,26 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-family: Arial, sans-serif;
+}
+
+#container {
+    text-align: center;
+}
+
+#timer {
+    font-size: 3em;
+    margin-bottom: 20px;
+}
+
+#cake {
+    width: 300px;
+    height: auto;
+}
